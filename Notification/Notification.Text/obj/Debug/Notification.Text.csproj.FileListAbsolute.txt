@@ -1,0 +1,26 @@
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Notification.Text.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Notification.Text.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\obj\Debug\Notification.Text.csprojResolveAssemblyReference.cache
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\obj\Debug\Notification.Text.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\obj\Debug\Notification.Text.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Notification.Text.dll.config
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\RestSharp.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Twilio.Api.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\RestSharp.xml
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Twilio.Api.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Twilio.Api.xml
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Notification.Common.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Text\bin\Debug\Notification.Common.pdb
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Notification.Text.dll.config
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Notification.Text.dll
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Notification.Text.pdb
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Notification.Common.dll
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\RestSharp.dll
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Twilio.Api.dll
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Notification.Common.pdb
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\RestSharp.xml
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Twilio.Api.pdb
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\bin\Debug\Twilio.Api.xml
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\obj\Debug\Notification.Text.csprojResolveAssemblyReference.cache
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\obj\Debug\Notification.Text.dll
+D:\Antony\Prakash\Twilio New\Notification\Notification.Text\obj\Debug\Notification.Text.pdb

@@ -1,0 +1,8 @@
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\bin\Debug\Notification.Mail.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\bin\Debug\Notification.Mail.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\obj\Debug\Notification.Mail.csprojResolveAssemblyReference.cache
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\obj\Debug\Notification.Mail.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\obj\Debug\Notification.Mail.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\bin\Debug\Notification.Mail.dll.config
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\bin\Debug\Notification.Common.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Mail\bin\Debug\Notification.Common.pdb

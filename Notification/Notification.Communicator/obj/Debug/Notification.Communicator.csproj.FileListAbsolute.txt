@@ -1,0 +1,14 @@
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Communicator.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Communicator.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\obj\Debug\Notification.Communicator.csprojResolveAssemblyReference.cache
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\obj\Debug\Notification.Communicator.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\obj\Debug\Notification.Communicator.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Common.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Mail.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Text.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Twilio.Api.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Common.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Mail.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Notification.Text.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Twilio.Api.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Communicator\bin\Debug\Twilio.Api.xml

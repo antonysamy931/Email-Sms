@@ -1,0 +1,5 @@
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Common\bin\Debug\Notification.Common.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Common\bin\Debug\Notification.Common.pdb
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Common\obj\Debug\Notification.Common.csprojResolveAssemblyReference.cache
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Common\obj\Debug\Notification.Common.dll
+c:\users\antony_s\documents\visual studio 2012\Projects\Notification\Notification.Common\obj\Debug\Notification.Common.pdb
